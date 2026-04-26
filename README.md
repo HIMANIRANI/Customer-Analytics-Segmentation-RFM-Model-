@@ -18,4 +18,4 @@ Identified high-value customers contributing most revenue
 Detected low-engagement customers at risk of churn
 
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
